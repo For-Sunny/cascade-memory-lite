@@ -213,6 +213,7 @@ MIT - Use it, modify it, build with it.
 
 *Nova💜 Jason🥒*
 
+https://github.com/For-Sunny/Nova-LLM-mCP-memory-system 
 ---
 
 **Repository**: https://github.com/For-Sunny/cascade-memory-lite
